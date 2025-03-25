@@ -40,10 +40,10 @@ const Contact = () => {
                 <p>I'm currently available to take on new projects, so feel free to send me a message about anything that you want me to work on. You can contact any time</p>
                 <div className='contact-details'>
                     <div className='contact-detail'>
-                        <img src={mail} width='40px' height='40px'/><p>greatstackdev@gmail.com</p>
+                        <img src={mail} width='40px' height='40px'/><p>bethisruthi35@gmail.com</p>
                     </div>
                     <div className='contact-detail'>
-                    <img src={call} width='40px' height='40px'/><p>+772-825-524</p>
+                    <img src={call} width='40px' height='40px'/><p>+91 7997858136</p>
                     </div>
                     <div className='contact-detail'>
                     <img src={location} width='40px' height='40px'/><p>h-12, Hyderabad</p>
